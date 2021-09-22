@@ -1,2 +1,2 @@
-# niftyswap-token-list
-Token List for Niftyswap
+# niftyswap-directory
+Token+Pool List for Niftyswap
