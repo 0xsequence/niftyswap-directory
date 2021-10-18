@@ -1,10 +1,14 @@
 [
   {
     "chainId": 137,
-    "name": "SKYWEAVER_DEV : DAI_DEV",
-    "type": "niftyswap20_exchange",
-    "address": "0x11441f64a4815bf5330125903bfffFA5de420746",
+    "name": "Skyweaver (Dev)",
     "tokenAddress": "0xC4c544D22BCc110652944BcA5Cf6330dd04D081a",
-    "currencyAddress": "0xA804304F8e7C9AB5932aC3A4CC1468e40183d199"
+    "exchanges": [
+      {
+        "type": "niftyswap20_exchange",
+        "address": "0x11441f64a4815bf5330125903bfffFA5de420746",
+        "currencyAddress": "0xA804304F8e7C9AB5932aC3A4CC1468e40183d199"
+      }
+    ]
   }
 ]
