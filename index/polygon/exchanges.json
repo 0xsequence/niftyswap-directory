@@ -13,14 +13,14 @@
   },
   {
     "chainId": 137,
-    "name": "Skyweaver (Dev)",
+    "name": "Skyweaver",
     "type": "collection",
-    "tokenAddress": "0xC4c544D22BCc110652944BcA5Cf6330dd04D081a",
+    "tokenAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E",
     "exchanges": [
       {
         "type": "niftyswap20_exchange",
-        "address": "0x11441f64a4815bf5330125903bfffFA5de420746",
-        "currencyAddress": "0xA804304F8e7C9AB5932aC3A4CC1468e40183d199"
+        "address": "0x9B609Bf3A3977Ee7254210E0A0D835251540c4D5",
+        "currencyAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
       }
     ]
   }
