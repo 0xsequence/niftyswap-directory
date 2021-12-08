@@ -7,12 +7,6 @@
   },
   {
     "chainId": 137,
-    "name": "Niftyswap1155 Factory",
-    "type": "niftyswap1155_factory",
-    "address": "0x39a55dFD1500f3c6b7c4DcA4f9F21a0ba66c9bDc"
-  },
-  {
-    "chainId": 137,
     "name": "Skyweaver",
     "type": "collection",
     "tokenAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E",
