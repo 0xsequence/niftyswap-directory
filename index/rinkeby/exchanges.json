@@ -17,5 +17,18 @@
         "currencyAddress": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b"
       }
     ]
+  },
+  {
+    "chainId": 4,
+    "name": "Fractional Art (dev)",
+    "type": "collection",
+    "tokenAddress": "0xc2e78eff7b3862356968bf24b9e89b265552a62f",
+    "exchanges": [
+      {
+        "type": "niftyswap20_exchange",
+        "address": "0xc14F3B2B88646575Cc4693678A463e34EEd10356",
+        "currencyAddress": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b"
+      }
+    ]
   }
 ]
