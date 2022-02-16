@@ -3,32 +3,30 @@
     "chainId": 4,
     "name": "Niftyswap20 Factory",
     "type": "niftyswap20_factory",
-    "address": "0xbB62bFe0ba9eFD3f6f0DFA5dA66fCeF4F4259949"
+    "contractAddress": "0xbB62bFe0ba9eFD3f6f0DFA5dA66fCeF4F4259949"
+  },
+  {
+    "chainId": 4,
+    "name": "USDC",
+    "type": "erc20_currency",
+    "contractAddress": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b"
+  },
+  {
+    "chainId": 4,
+    "name": "WETH",
+    "type": "erc20_currency",
+    "contractAddress": "0xc778417e063141139fce010982780140aa0cd5ab"
   },
   {
     "chainId": 4,
     "name": "Skyweaver (test)",
     "type": "collection",
-    "tokenAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E",
-    "exchanges": [
-      {
-        "type": "niftyswap20_exchange",
-        "address": "0x9B609Bf3A3977Ee7254210E0A0D835251540c4D5",
-        "currencyAddress": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b"
-      }
-    ]
+    "contractAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E"
   },
   {
     "chainId": 4,
     "name": "Fractional Art (dev)",
     "type": "collection",
-    "tokenAddress": "0xc2e78eff7b3862356968bf24b9e89b265552a62f",
-    "exchanges": [
-      {
-        "type": "niftyswap20_exchange",
-        "address": "0xc14F3B2B88646575Cc4693678A463e34EEd10356",
-        "currencyAddress": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b"
-      }
-    ]
+    "contractAddress": "0xc2e78eff7b3862356968bf24b9e89b265552a62f"
   }
 ]
