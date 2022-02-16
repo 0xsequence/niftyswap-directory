@@ -3,19 +3,24 @@
     "chainId": 137,
     "name": "Niftyswap20 Factory",
     "type": "niftyswap20_factory",
-    "address": "0xbB62bFe0ba9eFD3f6f0DFA5dA66fCeF4F4259949"
+    "contractAddress": "0xbB62bFe0ba9eFD3f6f0DFA5dA66fCeF4F4259949"
   },
   {
     "chainId": 137,
-    "name": "Skyweaver",
+    "name": "USDC",
+    "type": "erc20_currency",
+    "contractAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+  },
+  {
+    "chainId": 137,
+    "name": "WETH",
+    "type": "erc20_currency",
+    "contractAddress": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+  },
+  {
+    "chainId": 137,
+    "name": "Skyweaver (test)",
     "type": "collection",
-    "tokenAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E",
-    "exchanges": [
-      {
-        "type": "niftyswap20_exchange",
-        "address": "0x9B609Bf3A3977Ee7254210E0A0D835251540c4D5",
-        "currencyAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
-      }
-    ]
+    "contractAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E"
   }
 ]
