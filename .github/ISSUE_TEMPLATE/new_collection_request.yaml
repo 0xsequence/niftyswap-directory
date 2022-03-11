@@ -1,0 +1,48 @@
+name: New Collection Request
+description: request to add an ERC1155 collectible to the featured section of niftyswap.io
+title: "New Collection Request"
+labels: new collection request
+body:
+  - type: input
+    id: collectibleName
+    attributes:
+      label: Collectible Name
+      description: "Please provide the name of the collectible"
+      placeholder: "Collectible Name"
+    validations:
+      required: true
+  - type: input
+    id: contractAddress
+    attributes:
+      label: Contract Address
+      description: "Must be ERC1155 contract address, and have source code verified."
+      placeholder: "0x123"
+    validations:
+      required: true  
+  - type: input
+    id: projectLink
+    attributes:
+      label: Project Link
+      description: "Please provide a link to the project (or OpenSea listing)"
+      placeholder: "https://"
+    validations:
+      required: true
+  - type: dropdown
+    id: chainId
+    attributes:
+      label: Network Name
+      description: Which chain is the collectible contract deployed on?
+      options:
+        - Ethereum Mainnet
+        - Polygon Mainnet
+        - Rinkeby (Testnet)
+        - Somewhere else (please specify in the description!)
+    validations:
+      required: true  
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Extra information about the Collectible
+    validations:
+      required: false
