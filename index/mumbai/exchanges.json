@@ -1,0 +1,20 @@
+[
+  {
+    "chainId": 80001,
+    "name": "Niftyswap20 Factory",
+    "type": "niftyswap20_factory",
+    "contractAddress": "0xbB62bFe0ba9eFD3f6f0DFA5dA66fCeF4F4259949"
+  },
+  {
+    "chainId": 80001,
+    "name": "USDC",
+    "type": "erc20_currency",
+    "contractAddress": "0x566368d78dbdec50f04b588e152de3cec0d5889f"
+  },
+  {
+    "chainId": 80001,
+    "name": "Skyweaver (test)",
+    "type": "collection",
+    "contractAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E"
+  }
+]
