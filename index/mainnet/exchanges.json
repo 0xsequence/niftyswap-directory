@@ -16,5 +16,11 @@
     "name": "WETH",
     "type": "erc20_currency",
     "contractAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+  },
+  {
+    "chainId": 1,
+    "name": "Parallel Alpha",
+    "type": "collection",
+    "contractAddress": "0x76BE3b62873462d2142405439777e971754E8E77"
   }
 ]
