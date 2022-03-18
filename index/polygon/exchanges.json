@@ -19,8 +19,14 @@
   },
   {
     "chainId": 137,
-    "name": "Skyweaver (test)",
+    "name": "Skyweaver",
     "type": "collection",
     "contractAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E"
+  },
+  {
+    "chainId": 137,
+    "name": "Ember Sword Badge",
+    "type": "collection",
+    "contractAddress": "0xa5511e9941e303101b50675926fd4d9c1a8a8805"
   }
 ]

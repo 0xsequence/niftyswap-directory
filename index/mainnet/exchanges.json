@@ -22,5 +22,11 @@
     "name": "Parallel Alpha",
     "type": "collection",
     "contractAddress": "0x76BE3b62873462d2142405439777e971754E8E77"
+  },
+  {
+    "chainId": 1,
+    "name": "illuvium",
+    "type": "collection",
+    "contractAddress": "0x4222b2a98daa443c6a0a761300d7d6bfd9161e52"
   }
 ]
