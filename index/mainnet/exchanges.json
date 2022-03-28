@@ -34,5 +34,11 @@
     "name": "The Sandbox ASSETS",
     "type": "collection",
     "contractAddress": "0xa342f5d851e866e18ff98f351f2c6637f4478db5"
+  },
+  {
+    "chainId": 1,
+    "name": "ESSENCE//",
+    "type": "collection",
+    "contractAddress": "0xddb149ae8e6635df01a530da1e46921bd78dc385"
   }
 ]
