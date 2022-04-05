@@ -25,12 +25,6 @@
   },
   {
     "chainId": 4,
-    "name": "Fractional Art (dev)",
-    "type": "collection",
-    "contractAddress": "0xc2e78eff7b3862356968bf24b9e89b265552a62f"
-  },
-  {
-    "chainId": 4,
     "name": "Exquisite Art",
     "type": "collection",
     "contractAddress": "0x6cf6afcaad7a5af1e0c46da135c49b0721e39c42"
