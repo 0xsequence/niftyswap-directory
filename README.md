@@ -8,7 +8,7 @@ To be added to the directory, exchanges must be deployed via factory contracts l
 
 | Network               | Type                  | Address                                    |
 | --------------------- | --------------------- | ------------------------------------------ |
-| Ethereum Mainnet      | Niftyswap20 Factory   | 0xbB62bFe0ba9eFD3f6f0DFA5dA66fCeF4F4259949 |
-| Polygon Mainnet       | Niftyswap20 Factory   | 0xbB62bFe0ba9eFD3f6f0DFA5dA66fCeF4F4259949 |
-| Rinkeby (testnet)     | Niftyswap20 Factory   | 0xbB62bFe0ba9eFD3f6f0DFA5dA66fCeF4F4259949 |
-| Mumbai (testnet)      | Niftyswap20 Factory   | 0xbB62bFe0ba9eFD3f6f0DFA5dA66fCeF4F4259949 |
+| Ethereum Mainnet      | Niftyswap20 Factory   | 0x8C19d4F64D208E1061FbDEc8a2f3dCe567428801 |
+| Polygon Mainnet       | Niftyswap20 Factory   | 0x8C19d4F64D208E1061FbDEc8a2f3dCe567428801 |
+| Rinkeby (testnet)     | Niftyswap20 Factory   | 0x8C19d4F64D208E1061FbDEc8a2f3dCe567428801 |
+| Mumbai (testnet)      | Niftyswap20 Factory   | 0x8C19d4F64D208E1061FbDEc8a2f3dCe567428801 |
