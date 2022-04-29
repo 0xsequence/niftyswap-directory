@@ -1,0 +1,8 @@
+[
+  {
+    "chainId": 56,
+    "name": "Niftyswap20 Factory",
+    "type": "niftyswap20_factory",
+    "contractAddress": "0x8C19d4F64D208E1061FbDEc8a2f3dCe567428801"
+  }
+]
