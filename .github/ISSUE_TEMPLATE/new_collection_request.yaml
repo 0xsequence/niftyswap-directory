@@ -1,5 +1,5 @@
 name: New Collection Request
-description: request to add an ERC1155 collectible to the featured section of niftyswap.io
+description: Request form for adding an ERC1155 collectible to the featured section of niftyswap.io
 title: "New Collection Request"
 labels: new collection request
 body:
