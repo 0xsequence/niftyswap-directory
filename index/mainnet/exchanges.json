@@ -40,5 +40,23 @@
     "name": "ESSENCE//",
     "type": "collection",
     "contractAddress": "0xddb149ae8e6635df01a530da1e46921bd78dc385"
+  },
+  {
+    "chainId": 1,
+    "name": "Sugar (Genesis)",
+    "type": "collection",
+    "contractAddress": "0xcaEA26bdCCfa9090d056b6533a608C6157CaA948"
+  },
+  {
+    "chainId": 1,
+    "name": "PILLS",
+    "type": "collection",
+    "contractAddress": "0xA16891897378a82E9F0ad44A705B292C9753538C"
+  },
+  {
+    "chainId": 1,
+    "name": "ICE64",
+    "type": "collection",
+    "contractAddress": "0x6d36745510dC7a75570755B295694e8Ec625b7d2"
   }
 ]
