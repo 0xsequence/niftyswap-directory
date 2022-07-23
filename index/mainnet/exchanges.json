@@ -33,7 +33,15 @@
     "chainId": 1,
     "name": "The Sandbox ASSETS",
     "type": "collection",
-    "contractAddress": "0xa342f5d851e866e18ff98f351f2c6637f4478db5"
+    "contractAddress": "0xa342f5d851e866e18ff98f351f2c6637f4478db5",
+    "extraCurrencies": [
+      {
+        "chainId": 1,
+        "name": "SAND",
+        "type": "erc20_currency",
+        "contractAddress": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
+      }
+    ]
   },
   {
     "chainId": 1,
