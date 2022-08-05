@@ -45,6 +45,24 @@
   },
   {
     "chainId": 1,
+    "name": "Ragnarok Meta",
+    "type": "collection",
+    "contractAddress": "0x497a9a79e82e6fc0ff10a16f6f75e6fcd5ae65a8"
+  },
+  {
+    "chainId": 1,
+    "name": "10KTF Stockroom",
+    "type": "collection",
+    "contractAddress": "0x7daec605e9e2a1717326eedfd660601e2753a057"
+  },
+  {
+    "chainId": 1,
+    "name": "MetaHero Universe: United Planets",
+    "type": "collection",
+    "contractAddress": "0x7deb7bce4d360ebe68278dee6054b882aa62d19c"
+  },
+  {
+    "chainId": 1,
     "name": "ESSENCE//",
     "type": "collection",
     "contractAddress": "0xddb149ae8e6635df01a530da1e46921bd78dc385"
