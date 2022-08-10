@@ -45,9 +45,9 @@
   },
   {
     "chainId": 1,
-    "name": "Ragnarok Meta",
+    "name": "Genetic Engineering Laboratory",
     "type": "collection",
-    "contractAddress": "0x497a9a79e82e6fc0ff10a16f6f75e6fcd5ae65a8"
+    "contractAddress": "0x48e854addccee85ccd4f7a5e660564eae4b577d0"
   },
   {
     "chainId": 1,
@@ -84,5 +84,17 @@
     "name": "ICE64",
     "type": "collection",
     "contractAddress": "0x6d36745510dC7a75570755B295694e8Ec625b7d2"
+  },
+  {
+    "chainId": 1,
+    "name": "Parallel Auxiliary Items",
+    "type": "collection",
+    "contractAddress": "0x38398a2d7A4278b8d83967E0D235164335A0394A"
+  },
+  {
+    "chainId": 1,
+    "name": "RTFKT SKIN VIAL: EVO X",
+    "type": "collection",
+    "contractAddress": "0x9a06ef3a841316a9e2c1c93b9c21a7342abe484f"
   }
 ]
