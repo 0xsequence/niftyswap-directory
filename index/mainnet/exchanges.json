@@ -21,18 +21,21 @@
     "chainId": 1,
     "name": "Parallel Alpha",
     "type": "collection",
+    "verified": true,
     "contractAddress": "0x76BE3b62873462d2142405439777e971754E8E77"
   },
   {
     "chainId": 1,
     "name": "Illuvium",
     "type": "collection",
+    "verified": true,
     "contractAddress": "0x4222b2a98daa443c6a0a761300d7d6bfd9161e52"
   },
   {
     "chainId": 1,
     "name": "The Sandbox ASSETS",
     "type": "collection",
+    "verified": true,
     "contractAddress": "0xa342f5d851e866e18ff98f351f2c6637f4478db5",
     "extraCurrencies": [
       {
@@ -47,12 +50,14 @@
     "chainId": 1,
     "name": "Genetic Engineering Laboratory",
     "type": "collection",
+    "verified": true,
     "contractAddress": "0x48e854addccee85ccd4f7a5e660564eae4b577d0"
   },
   {
     "chainId": 1,
     "name": "10KTF Stockroom",
     "type": "collection",
+    "verified": true,
     "contractAddress": "0x7daec605e9e2a1717326eedfd660601e2753a057"
   },
   {
@@ -88,12 +93,14 @@
   {
     "chainId": 1,
     "name": "Parallel Auxiliary Items",
+    "verified": true,
     "type": "collection",
     "contractAddress": "0x38398a2d7A4278b8d83967E0D235164335A0394A"
   },
   {
     "chainId": 1,
     "name": "RTFKT SKIN VIAL: EVO X",
+    "verified": true,
     "type": "collection",
     "contractAddress": "0x9a06ef3a841316a9e2c1c93b9c21a7342abe484f"
   }
