@@ -23,5 +23,12 @@
     "type": "collection",
     "verified": true,
     "contractAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E"
+  },
+  {
+    "chainId": 137,
+    "name": "Cooltopia ItemFactory",
+    "type": "collection",
+    "verified": true,
+    "contractAddress": "0x88883145049dec03c00cb7708cbc938058802520"
   }
 ]
