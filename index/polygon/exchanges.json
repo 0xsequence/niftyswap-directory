@@ -30,5 +30,12 @@
     "type": "collection",
     "verified": true,
     "contractAddress": "0x88883145049dec03c00cb7708cbc938058802520"
+  },
+  {
+    "chainId": 137,
+    "name": "Sunflower Land Collectibles",
+    "type": "collection",
+    "verified": true,
+    "contractAddress": "0x22d5f9b75c524fec1d6619787e582644cd4d7422"
   }
 ]
