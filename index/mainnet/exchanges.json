@@ -99,13 +99,6 @@
   },
   {
     "chainId": 1,
-    "name": "RTFKT SKIN VIAL: EVO X",
-    "verified": true,
-    "type": "collection",
-    "contractAddress": "0x9a06ef3a841316a9e2c1c93b9c21a7342abe484f"
-  },
-  {
-    "chainId": 1,
     "name": "A0K1VERSE Credits",
     "verified": true,
     "type": "collection",
