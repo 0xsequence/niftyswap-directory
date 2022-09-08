@@ -45,5 +45,12 @@
         "contractAddress": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05"
       }
     ]
+  },
+  {
+    "chainId": 137,
+    "name": "GFC Gold P2E fragment",
+    "type": "collection",
+    "verified": true,
+    "contractAddress": "0xa035f4fdb4fef7752d7ba4ef5cdd7a7ffd9831ff"
   }
 ]
