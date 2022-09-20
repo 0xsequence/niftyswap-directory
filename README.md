@@ -1,6 +1,6 @@
 # niftyswap-directory
 
-Official Directory for Niftyswap Exchanges
+Official Directory for Niftyswap Collection Pools
 
 ---
 
