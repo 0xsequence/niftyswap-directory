@@ -19,6 +19,7 @@
   },
   {
     "chainId": 137,
+    "uid": "skyweaver",
     "name": "Skyweaver",
     "type": "collection",
     "verified": true,
