@@ -26,7 +26,6 @@
   },
   {
     "chainId": 137,
-    "uid": "sunflowerland",
     "name": "Cooltopia ItemFactory",
     "type": "collection",
     "contractAddress": "0x88883145049dec03c00cb7708cbc938058802520"
