@@ -1,0 +1,19 @@
+{
+  "name": "niftyswap-directory",
+  "version": "1.0.0",
+  "description": "Official Directory for Niftyswap Collection Pools",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xsequence/niftyswap-directory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xsequence/niftyswap-directory/issues"
+  },
+  "homepage": "https://github.com/0xsequence/niftyswap-directory#readme"
+}

@@ -32,6 +32,7 @@
   },
   {
     "chainId": 137,
+    "uid": "sunflowerland",
     "name": "Sunflower Land Collectibles",
     "type": "collection",
     "verified": true,
