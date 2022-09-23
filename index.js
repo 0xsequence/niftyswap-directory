@@ -1,12 +1,13 @@
 const fs = require("fs");
 
-// YOU HAVE ONE JOB: If a collection in a chainId has a UID - make sure it's unique
+let allUIDs = [];
+
+// YOU HAVE ONE JOB: If a collection in a chainId has a UID - make sure it's unique & valid slug string
 fs.readdirSync("./index").forEach((chainName) => {
   fs.readdirSync(`./index/${chainName}`).forEach((fileName) => {
     if (fileName !== "exchanges.json") return;
 
     const exchangeFilePath = `./index/${chainName}/exchanges.json`;
-
     fs.readFile(exchangeFilePath, "utf8", function (err, data) {
       if (err) throw err;
 
@@ -23,7 +24,12 @@ fs.readdirSync("./index").forEach((chainName) => {
         .map((c) => c.uid)
         .filter(Boolean);
 
-      const noDublicates = checkIfArrayHadDublicates(collectionUIDs);
+      allUIDs = [...allUIDs, ...collectionUIDs];
+
+      // VERIFYING:
+
+      // 1) For No Dublicates
+      const noDublicates = checkIfArrayHadDublicates(allUIDs);
 
       if (!noDublicates) {
         console.log(
@@ -32,7 +38,15 @@ fs.readdirSync("./index").forEach((chainName) => {
         process.exit(1);
       }
 
-      return;
+      // 2) For proper UID
+      allUIDs.map((uid) => {
+        const acceptableUID = /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(uid);
+
+        if (!acceptableUID) {
+          console.log(`${uid} is a invalid uid! Please enter a valid UID!`);
+          process.exit(1);
+        }
+      });
     });
   });
 });

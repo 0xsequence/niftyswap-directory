@@ -1,8 +1,8 @@
-name: "Unqiue Collection UID"
+name: "Unqiue & Valid Collection UID"
 
 on:
   pull_request:
-    branches: [ master ]
+    branches: [master]
 
 jobs:
   test_pull_request:
