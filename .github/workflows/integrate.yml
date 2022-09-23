@@ -1,3 +1,9 @@
+name: "Unqiue Collection UID"
+
+on:
+  pull_request:
+    branches: [ master ]
+
 jobs:
   test_pull_request:
     runs_on: ubuntu-latest
