@@ -10,5 +10,12 @@
     "name": "USDC",
     "type": "erc20_currency",
     "contractAddress": "0x566368d78dbdec50f04b588e152de3cec0d5889f"
+  },
+  {
+    "chainId": 80001,
+    "name": "Skyweaver (test)",
+    "type": "collection",
+    "verified": true,
+    "contractAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E"
   }
 ]
