@@ -13,6 +13,12 @@
   },
   {
     "chainId": 80001,
+    "name": "WETH",
+    "type": "erc20_currency",
+    "contractAddress": "0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa"
+  },
+  {
+    "chainId": 80001,
     "name": "Skyweaver (test)",
     "type": "collection",
     "verified": true,

@@ -4,5 +4,11 @@
     "name": "USDC",
     "type": "erc20_currency",
     "contractAddress": "0x07865c6e87b9f70255377e024ace6630c1eaa37f"
+  },
+  {
+    "chainId": 5,
+    "name": "WETH",
+    "type": "erc20_currency",
+    "contractAddress": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6"
   }
 ]
