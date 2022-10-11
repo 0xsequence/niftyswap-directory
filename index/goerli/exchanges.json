@@ -1,6 +1,12 @@
 [
   {
     "chainId": 5,
+    "name": "Niftyswap20 Factory",
+    "type": "niftyswap20_factory",
+    "contractAddress": "0x9196b852437D9Ed92d95715dCbdA4533ffC479E0"
+  },
+  {
+    "chainId": 5,
     "name": "USDC",
     "type": "erc20_currency",
     "contractAddress": "0x07865c6e87b9f70255377e024ace6630c1eaa37f"

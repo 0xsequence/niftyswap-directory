@@ -14,6 +14,6 @@ To be added to the directory, exchanges must be deployed via one of the factory 
 | Optimism            | 10       | Niftyswap20 Factory | [0x9196b852437D9Ed92d95715dCbdA4533ffC479E0](https://optimistic.etherscan.io/address/0x9196b852437D9Ed92d95715dCbdA4533ffC479E0) |
 | BSC                 | 56       | Niftyswap20 Factory | [0x9196b852437D9Ed92d95715dCbdA4533ffC479E0](https://bscscan.com/address/0x9196b852437D9Ed92d95715dCbdA4533ffC479E0)             |
 | Avalanche           | 43114    | Niftyswap20 Factory | [0x9196b852437D9Ed92d95715dCbdA4533ffC479E0](https://snowtrace.io/address/0x9196b852437D9Ed92d95715dCbdA4533ffC479E0)            |
-| Goerli (testnet)    | 420      | Niftyswap20 Factory | [0x9196b852437D9Ed92d95715dCbdA4533ffC479E0](https://goerli.etherscan.io/address/0x9196b852437D9Ed92d95715dCbdA4533ffC479E0)     |
+| Goerli (testnet)    | 5        | Niftyswap20 Factory | [0x9196b852437D9Ed92d95715dCbdA4533ffC479E0](https://goerli.etherscan.io/address/0x9196b852437D9Ed92d95715dCbdA4533ffC479E0)     |
 | Arbitrum (testnet)  | 421613   | Niftyswap20 Factory | [0x9196b852437D9Ed92d95715dCbdA4533ffC479E0](https://testnet.arbiscan.io/address/0x9196b852437D9Ed92d95715dCbdA4533ffC479E0)     |
 | Mumbai (testnet)    | 80001    | Niftyswap20 Factory | [0x9196b852437D9Ed92d95715dCbdA4533ffC479E0](https://mumbai.polygonscan.com/address/0x9196b852437D9Ed92d95715dCbdA4533ffC479E0)  |
