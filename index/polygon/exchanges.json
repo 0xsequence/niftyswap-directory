@@ -47,10 +47,16 @@
   },
   {
     "chainId": 137,
-    "name": "GFC Gold P2E fragment",
+    "name": "GFC P2E fragments",
     "type": "collection",
     "verified": true,
     "contractAddress": "0xa035f4fdb4fef7752d7ba4ef5cdd7a7ffd9831ff"
+  },
+  {
+    "chainId": 137,
+    "name": "GFC P2E Keys",
+    "type": "collection",
+    "contractAddress": "0x67a7ae8e3b3e1e58e2a105b4c7413a5506169476"
   },
   {
     "chainId": 137,
