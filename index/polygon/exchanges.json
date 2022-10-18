@@ -56,6 +56,7 @@
     "chainId": 137,
     "name": "GFC P2E Keys",
     "type": "collection",
+    "verified": true,
     "contractAddress": "0x67a7ae8e3b3e1e58e2a105b4c7413a5506169476"
   },
   {
