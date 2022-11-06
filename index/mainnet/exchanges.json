@@ -97,5 +97,11 @@
     "name": "A0K1VERSE Credits",
     "type": "collection",
     "contractAddress": "0xe4462eb568e2dfbb5b0ca2d3dbb1a35c9aa98aad"
+  },
+  {
+    "chainId": 1,
+    "name": "LVCIDIA// RESOURCES",
+    "type": "collection",
+    "contractAddress": "0x97A20815a061EaE224c4fdF3109731f73743db73"
   }
 ]
