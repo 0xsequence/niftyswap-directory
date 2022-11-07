@@ -47,22 +47,24 @@
   },
   {
     "chainId": 137,
+    "name": "Shrub Paper Gardens",
+    "type": "collection",
+    "contractAddress": "0xA9ae86b25424d8b523A91975Da1336AC490Bc4C7"
+  },
+  {
+    "chainId": 137,
     "name": "GFC P2E fragments",
     "type": "collection",
     "verified": true,
-    "contractAddress": "0xa035f4fdb4fef7752d7ba4ef5cdd7a7ffd9831ff"
+    "contractAddress": "0xa035f4fdb4fef7752d7ba4ef5cdd7a7ffd9831ff",
+    "publisher": "Galaxy Fight Club"
   },
   {
     "chainId": 137,
     "name": "GFC P2E Keys",
     "type": "collection",
     "verified": true,
-    "contractAddress": "0x67a7ae8e3b3e1e58e2a105b4c7413a5506169476"
-  },
-  {
-    "chainId": 137,
-    "name": "Shrub Paper Gardens",
-    "type": "collection",
-    "contractAddress": "0xA9ae86b25424d8b523A91975Da1336AC490Bc4C7"
+    "contractAddress": "0x67a7ae8e3b3e1e58e2a105b4c7413a5506169476",
+    "publisher": "Galaxy Fight Club"
   }
 ]
