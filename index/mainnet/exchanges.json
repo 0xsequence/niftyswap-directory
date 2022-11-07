@@ -99,13 +99,13 @@
     "name": "ESSENCE//",
     "type": "collection",
     "contractAddress": "0xddb149ae8e6635df01a530da1e46921bd78dc385",
-    "publisher": "ESSENCE & LVCIDIA"
+    "publisher": "LVCIDIA"
   },
   {
     "chainId": 1,
     "name": "LVCIDIA// RESOURCES",
     "type": "collection",
     "contractAddress": "0x97A20815a061EaE224c4fdF3109731f73743db73",
-    "publisher": "ESSENCE & LVCIDIA"
+    "publisher": "LVCIDIA"
   }
 ]
