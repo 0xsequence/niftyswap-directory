@@ -38,7 +38,7 @@
     "contractAddress": "0x22d5f9b75c524fec1d6619787e582644cd4d7422",
     "extraCurrencies": [
       {
-        "chainId": 1,
+        "chainId": 137,
         "name": "SFL",
         "type": "erc20_currency",
         "contractAddress": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05"

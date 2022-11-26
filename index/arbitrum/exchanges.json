@@ -16,5 +16,25 @@
     "name": "WETH",
     "type": "erc20_currency",
     "contractAddress": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+  },
+  {
+    "chainId": 42161,
+    "name": "Tales of Elleria - Relics",
+    "type": "collection",
+    "contractAddress": "0x381227255ef6c5d85966b78d13e4b4a4c8719b5e",
+    "extraCurrencies": [
+      {
+        "chainId": 42161,
+        "name": "MAGIC",
+        "type": "erc20_currency",
+        "contractAddress": "0x539bdE0d7Dbd336b79148AA742883198BBF60342"
+      },
+      {
+        "chainId": 42161,
+        "name": "ELM",
+        "type": "erc20_currency",
+        "contractAddress": "0x45D55EADf0ED5495B369E040aF0717eaFaE3b731"
+      }
+    ]
   }
 ]
