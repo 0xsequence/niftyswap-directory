@@ -32,11 +32,11 @@
       "grade",
       "element",
       "cardType",
-      "trait",
+      "Trait",
       "attachment",
       "type",
-      "prisms",
-      "artist",
+      "Prisms",
+      "Artist",
       "baseCardId"
     ]
   },
