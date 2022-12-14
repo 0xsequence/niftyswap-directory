@@ -65,6 +65,7 @@
     "type": "collection",
     "verified": true,
     "contractAddress": "0x22d5f9b75c524fec1d6619787e582644cd4d7422",
+    "publisher": "Sunflower Land",
     "extraCurrencies": [
       {
         "chainId": 137,
@@ -79,6 +80,7 @@
     "name": "Bumpkin Wearables",
     "type": "collection",
     "contractAddress": "0x4bb5b2461e9ef782152c3a96698b2a4cf55b6162",
+    "publisher": "Sunflower Land",
     "extraCurrencies": [
       {
         "chainId": 137,
