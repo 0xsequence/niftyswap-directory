@@ -41,20 +41,6 @@
   },
   {
     "chainId": 137,
-    "name": "Skyweaver (dev)",
-    "type": "collection",
-    "contractAddress": "0x54b1a9A7a5577E5aD78b77FA2bA7A01d41f09fB4",
-    "extraCurrencies": [
-      {
-        "chainId": 137,
-        "name": "fUSDC",
-        "type": "erc20_currency",
-        "contractAddress": "0xfCFdE38A1EeaE0ee7e130BbF66e94844Bc5D5B6B"
-      }
-    ]
-  },
-  {
-    "chainId": 137,
     "name": "Cooltopia ItemFactory",
     "type": "collection",
     "contractAddress": "0x88883145049dec03c00cb7708cbc938058802520"
