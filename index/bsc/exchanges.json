@@ -4,5 +4,17 @@
     "name": "Niftyswap20 Factory",
     "type": "niftyswap20_factory",
     "contractAddress": "0x9196b852437D9Ed92d95715dCbdA4533ffC479E0"
+  },
+  {
+    "chainId": 56,
+    "name": "USDC",
+    "type": "erc20_currency",
+    "contractAddress": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d"
+  },
+  {
+    "chainId": 56,
+    "name": "Wrapped BNB",
+    "type": "erc20_currency",
+    "contractAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
   }
 ]

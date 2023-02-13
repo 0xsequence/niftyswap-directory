@@ -19,12 +19,6 @@
   },
   {
     "chainId": 1,
-    "name": "Illuvium",
-    "type": "collection",
-    "contractAddress": "0x4222b2a98daa443c6a0a761300d7d6bfd9161e52"
-  },
-  {
-    "chainId": 1,
     "name": "The Sandbox ASSETS",
     "type": "collection",
     "verified": true,
