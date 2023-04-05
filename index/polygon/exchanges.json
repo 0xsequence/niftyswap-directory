@@ -86,7 +86,6 @@
     "chainId": 137,
     "name": "GFC P2E fragments",
     "type": "collection",
-    "verified": true,
     "contractAddress": "0xa035f4fdb4fef7752d7ba4ef5cdd7a7ffd9831ff",
     "publisher": "Galaxy Fight Club"
   },
