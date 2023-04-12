@@ -12,6 +12,7 @@ To be added to the directory, exchanges must be deployed via one of the factory 
 | Polygon Mainnet     | 137      | Niftyswap20 Factory | [0x9196b852437D9Ed92d95715dCbdA4533ffC479E0](https://polygonscan.com/address/0x9196b852437D9Ed92d95715dCbdA4533ffC479E0)         |
 | Polygon zkEVM       | 1101     | Niftyswap20 Factory | [0x9196b852437D9Ed92d95715dCbdA4533ffC479E0](https://zkevm.polygonscan.com/address/0x9196b852437d9ed92d95715dcbda4533ffc479e0)   |
 | Arbitrum            | 42161    | Niftyswap20 Factory | [0x9196b852437D9Ed92d95715dCbdA4533ffC479E0](https://arbiscan.io/address/0x9196b852437D9Ed92d95715dCbdA4533ffC479E0)             |
+| Arbitrum Nova       | 42170    | Niftyswap20 Factory | [0x9196b852437D9Ed92d95715dCbdA4533ffC479E0](https://nova.arbiscan.io/address/0x9196b852437D9Ed92d95715dCbdA4533ffC479E0)        |
 | Optimism            | 10       | Niftyswap20 Factory | [0x9196b852437D9Ed92d95715dCbdA4533ffC479E0](https://optimistic.etherscan.io/address/0x9196b852437D9Ed92d95715dCbdA4533ffC479E0) |
 | BSC                 | 56       | Niftyswap20 Factory | [0x9196b852437D9Ed92d95715dCbdA4533ffC479E0](https://bscscan.com/address/0x9196b852437D9Ed92d95715dCbdA4533ffC479E0)             |
 | Avalanche           | 43114    | Niftyswap20 Factory | [0x9196b852437D9Ed92d95715dCbdA4533ffC479E0](https://snowtrace.io/address/0x9196b852437D9Ed92d95715dCbdA4533ffC479E0)            |

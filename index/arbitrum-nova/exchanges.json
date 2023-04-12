@@ -1,0 +1,20 @@
+[
+  {
+    "chainId": 42170,
+    "name": "Niftyswap20 Factory",
+    "type": "niftyswap20_factory",
+    "contractAddress": "0x9196b852437D9Ed92d95715dCbdA4533ffC479E0"
+  },
+  {
+    "chainId": 42170,
+    "name": "USDC",
+    "type": "erc20_currency",
+    "contractAddress": "0x750ba8b76187092B0D1E87E28daaf484d1b5273b"
+  },
+  {
+    "chainId": 42170,
+    "name": "WETH",
+    "type": "erc20_currency",
+    "contractAddress": "0x765277eebeca2e31912c9946eae1021199b39c61"
+  }
+]
