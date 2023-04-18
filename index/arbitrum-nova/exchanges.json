@@ -15,6 +15,6 @@
     "chainId": 42170,
     "name": "WETH",
     "type": "erc20_currency",
-    "contractAddress": "0x765277eebeca2e31912c9946eae1021199b39c61"
+    "contractAddress": "0x722e8bdd2ce80a4422e880164f2079488e115365"
   }
 ]
