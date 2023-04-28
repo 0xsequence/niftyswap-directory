@@ -103,6 +103,7 @@
     "type": "collection",
     "verified": true,
     "contractAddress": "0x37FC4b48CE93469dbEA9918468993C735049642a",
+    "extraFeesPercentage": 0,
     "publisher": "CropBytes"
   }
 ]
