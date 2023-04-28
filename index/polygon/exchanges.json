@@ -101,6 +101,7 @@
     "chainId": 137,
     "name": "CropBytes",
     "type": "collection",
+    "verified": true,
     "contractAddress": "0x37FC4b48CE93469dbEA9918468993C735049642a",
     "publisher": "CropBytes"
   }

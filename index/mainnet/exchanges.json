@@ -21,7 +21,6 @@
     "chainId": 1,
     "name": "The Sandbox ASSETS",
     "type": "collection",
-    "verified": true,
     "contractAddress": "0xa342f5d851e866e18ff98f351f2c6637f4478db5",
     "extraCurrencies": [
       {
