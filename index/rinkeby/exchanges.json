@@ -21,6 +21,7 @@
     "chainId": 4,
     "name": "Skyweaver (test)",
     "type": "collection",
+    "marketplaceType": "amm",
     "verified": true,
     "contractAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E"
   },
@@ -28,6 +29,7 @@
     "chainId": 4,
     "name": "Exquisite Art",
     "type": "collection",
+    "marketplaceType": "amm",
     "verified": true,
     "contractAddress": "0x6cf6afcaad7a5af1e0c46da135c49b0721e39c42"
   }

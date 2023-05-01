@@ -21,6 +21,7 @@
     "chainId": 137,
     "name": "Skyweaver",
     "type": "collection",
+    "marketplaceType": "amm",
     "verified": true,
     "contractAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E",
     "filterOptions": [
@@ -43,12 +44,14 @@
     "chainId": 137,
     "name": "Cooltopia ItemFactory",
     "type": "collection",
+    "marketplaceType": "amm",
     "contractAddress": "0x88883145049dec03c00cb7708cbc938058802520"
   },
   {
     "chainId": 137,
     "name": "Sunflower Land Collectibles",
     "type": "collection",
+    "marketplaceType": "amm",
     "verified": true,
     "contractAddress": "0x22d5f9b75c524fec1d6619787e582644cd4d7422",
     "publisher": "Sunflower Land",
@@ -65,6 +68,7 @@
     "chainId": 137,
     "name": "Bumpkin Wearables",
     "type": "collection",
+    "marketplaceType": "amm",
     "contractAddress": "0x4bb5b2461e9ef782152c3a96698b2a4cf55b6162",
     "publisher": "Sunflower Land",
     "extraCurrencies": [
@@ -80,12 +84,14 @@
     "chainId": 137,
     "name": "Shrub Paper Gardens",
     "type": "collection",
+    "marketplaceType": "amm",
     "contractAddress": "0xA9ae86b25424d8b523A91975Da1336AC490Bc4C7"
   },
   {
     "chainId": 137,
     "name": "GFC P2E fragments",
     "type": "collection",
+    "marketplaceType": "amm",
     "contractAddress": "0xa035f4fdb4fef7752d7ba4ef5cdd7a7ffd9831ff",
     "publisher": "Galaxy Fight Club"
   },
@@ -93,6 +99,7 @@
     "chainId": 137,
     "name": "GFC P2E Keys",
     "type": "collection",
+    "marketplaceType": "amm",
     "verified": true,
     "contractAddress": "0x67a7ae8e3b3e1e58e2a105b4c7413a5506169476",
     "publisher": "Galaxy Fight Club"
@@ -101,9 +108,18 @@
     "chainId": 137,
     "name": "CropBytes",
     "type": "collection",
+    "marketplaceType": "amm",
     "verified": true,
     "contractAddress": "0x37FC4b48CE93469dbEA9918468993C735049642a",
     "extraFeesPercentage": 0,
     "publisher": "CropBytes"
+  },
+  {
+    "chainId": 137,
+    "name": "Bumpkins",
+    "type": "collection",
+    "marketplaceType": "external",
+    "contractAddress": "0x624e4fa6980afcf8ea27bfe08e2fb5979b64df1c",
+    "publisher": "Sunflower Land"
   }
 ]
