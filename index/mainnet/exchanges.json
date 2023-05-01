@@ -21,6 +21,7 @@
     "chainId": 1,
     "name": "The Sandbox ASSETS",
     "type": "collection",
+    "marketplaceType": "amm",
     "contractAddress": "0xa342f5d851e866e18ff98f351f2c6637f4478db5",
     "extraCurrencies": [
       {
@@ -35,48 +36,56 @@
     "chainId": 1,
     "name": "Genetic Engineering Laboratory",
     "type": "collection",
+    "marketplaceType": "amm",
     "contractAddress": "0x48e854addccee85ccd4f7a5e660564eae4b577d0"
   },
   {
     "chainId": 1,
     "name": "10KTF Stockroom",
     "type": "collection",
+    "marketplaceType": "amm",
     "contractAddress": "0x7daec605e9e2a1717326eedfd660601e2753a057"
   },
   {
     "chainId": 1,
     "name": "MetaHero Universe: United Planets",
     "type": "collection",
+    "marketplaceType": "amm",
     "contractAddress": "0x7deb7bce4d360ebe68278dee6054b882aa62d19c"
   },
   {
     "chainId": 1,
     "name": "Sugar (Genesis)",
     "type": "collection",
+    "marketplaceType": "amm",
     "contractAddress": "0xcaEA26bdCCfa9090d056b6533a608C6157CaA948"
   },
   {
     "chainId": 1,
     "name": "PILLS",
     "type": "collection",
+    "marketplaceType": "amm",
     "contractAddress": "0xA16891897378a82E9F0ad44A705B292C9753538C"
   },
   {
     "chainId": 1,
     "name": "ICE64",
     "type": "collection",
+    "marketplaceType": "amm",
     "contractAddress": "0x6d36745510dC7a75570755B295694e8Ec625b7d2"
   },
   {
     "chainId": 1,
     "name": "A0K1VERSE Credits",
     "type": "collection",
+    "marketplaceType": "amm",
     "contractAddress": "0xe4462eb568e2dfbb5b0ca2d3dbb1a35c9aa98aad"
   },
   {
     "chainId": 1,
     "name": "Parallel Auxiliary Items",
     "type": "collection",
+    "marketplaceType": "amm",
     "contractAddress": "0x38398a2d7A4278b8d83967E0D235164335A0394A",
     "publisher": "Parallel"
   },
@@ -84,6 +93,7 @@
     "chainId": 1,
     "name": "Parallel Alpha",
     "type": "collection",
+    "marketplaceType": "amm",
     "contractAddress": "0x76BE3b62873462d2142405439777e971754E8E77",
     "publisher": "Parallel"
   },
@@ -91,6 +101,7 @@
     "chainId": 1,
     "name": "ESSENCE//",
     "type": "collection",
+    "marketplaceType": "amm",
     "contractAddress": "0xddb149ae8e6635df01a530da1e46921bd78dc385",
     "publisher": "LVCIDIA"
   },
@@ -98,6 +109,7 @@
     "chainId": 1,
     "name": "LVCIDIA// RESOURCES",
     "type": "collection",
+    "marketplaceType": "amm",
     "contractAddress": "0x97A20815a061EaE224c4fdF3109731f73743db73",
     "publisher": "LVCIDIA"
   }

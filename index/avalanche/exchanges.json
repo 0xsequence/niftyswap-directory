@@ -15,6 +15,7 @@
     "chainId": 43114,
     "name": "Castle Crush",
     "type": "collection",
+    "marketplaceType": "amm",
     "contractAddress": "0xa695ea0C90D89a1463A53Fa7a02168Bc46FbBF7e"
   }
 ]

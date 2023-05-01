@@ -21,6 +21,7 @@
     "chainId": 42161,
     "name": "Tales of Elleria - Relics",
     "type": "collection",
+    "marketplaceType": "amm",
     "contractAddress": "0x381227255ef6c5d85966b78d13e4b4a4c8719b5e",
     "extraCurrencies": [
       {
