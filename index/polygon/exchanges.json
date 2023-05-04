@@ -118,7 +118,7 @@
     "chainId": 137,
     "name": "Bumpkins",
     "type": "collection",
-    "marketplaceType": "external",
+    "marketplaceType": "p2p",
     "contractAddress": "0x624e4fa6980afcf8ea27bfe08e2fb5979b64df1c",
     "publisher": "Sunflower Land"
   }
