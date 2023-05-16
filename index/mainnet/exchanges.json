@@ -112,5 +112,12 @@
     "marketplaceType": "amm",
     "contractAddress": "0x97A20815a061EaE224c4fdF3109731f73743db73",
     "publisher": "LVCIDIA"
+  },
+  {
+    "chainId": 1,
+    "name": "Azuki",
+    "type": "collection",
+    "marketplaceType": "p2p",
+    "contractAddress": "0xed5af388653567af2f388e6224dc7c4b3241c544"
   }
 ]
