@@ -24,6 +24,7 @@
     "marketplaceType": "amm",
     "verified": true,
     "contractAddress": "0x631998e91476DA5B870D741192fc5Cbc55F5a52E",
+    "publisher": "Horizon",
     "filterOptions": [
       "mana",
       "health",
