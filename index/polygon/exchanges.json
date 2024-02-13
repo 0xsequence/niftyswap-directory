@@ -43,10 +43,10 @@
   },
   {
     "chainId": 137,
-    "name": "Cooltopia ItemFactory",
+    "name": "Champions Ascension - Prime Eternal",
     "type": "collection",
-    "marketplaceType": "amm",
-    "contractAddress": "0x88883145049dec03c00cb7708cbc938058802520"
+    "marketplaceType": "p2p",
+    "contractAddress": "0xe22575fad77781d730c6ed5d24dd1908d6d5b730"
   },
   {
     "chainId": 137,
