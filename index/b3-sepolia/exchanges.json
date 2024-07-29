@@ -1,0 +1,8 @@
+[
+  {
+    "chainId": 1993,
+    "name": "PEWPEW",
+    "type": "erc20_currency",
+    "contractAddress": "0x79B4c9ceBD2C45f7c40d605868af6AC08b8554C2"
+  }
+]

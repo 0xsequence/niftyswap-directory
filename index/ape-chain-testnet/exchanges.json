@@ -1,0 +1,8 @@
+[
+  {
+    "chainId": 33111,
+    "name": "ApeCurtis",
+    "type": "erc20_currency",
+    "contractAddress": "0x303f540a9bDeEe1829854BD819B3429cCfc6902D"
+  }
+]
