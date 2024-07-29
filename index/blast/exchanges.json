@@ -1,0 +1,8 @@
+[
+  {
+    "chainId": 81457,
+    "name": "WETH",
+    "type": "erc20_currency",
+    "contractAddress": "0x4300000000000000000000000000000000000004"
+  }
+]
