@@ -1,0 +1,8 @@
+[
+  {
+    "chainId": 97,
+    "name": "USDC",
+    "type": "erc20_currency",
+    "contractAddress": "0x64544969ed7EBf5f083679233325356EbE738930"
+  }
+]
