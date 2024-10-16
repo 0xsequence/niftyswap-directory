@@ -1,7 +1,7 @@
 [
   {
     "chainId": 21000000,
-    "name": "USDC",
+    "name": "TOY",
     "type": "erc20_currency",
     "contractAddress": "0x6D7bFFEFbAd377940f286c4AA790fb5d6cadF685"
   }
