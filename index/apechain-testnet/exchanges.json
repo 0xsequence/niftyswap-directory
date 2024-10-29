@@ -1,8 +1,8 @@
 [
   {
     "chainId": 33111,
-    "name": "ApeCurtis",
+    "name": "Wrapped APE (wAPE)",
     "type": "erc20_currency",
-    "contractAddress": "0x303f540a9bDeEe1829854BD819B3429cCfc6902D"
+    "contractAddress": "0x34b097B133bF3Fe3B7daD0d65E8f18DD5bf1a57B"
   }
 ]

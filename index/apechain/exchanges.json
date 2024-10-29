@@ -1,0 +1,20 @@
+[
+  {
+    "chainId": 33139,
+    "name": "Wrapped ApeCoin (wAPE)",
+    "type": "erc20_currency",
+    "contractAddress": "0x48b62137EdfA95a428D35C09E44256a739F6B557"
+  },
+  {
+    "chainId": 33139,
+    "name": "Ape ETH",
+    "type": "erc20_currency",
+    "contractAddress": "0xcF800F4948D16F23333508191B1B1591daF70438"
+  },
+  {
+    "chainId": 33139,
+    "name": "Ape USD",
+    "type": "erc20_currency",
+    "contractAddress": "0xA2235d059F80e176D931Ef76b6C51953Eb3fBEf4"
+  }
+]
