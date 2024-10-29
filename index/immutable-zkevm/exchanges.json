@@ -1,0 +1,20 @@
+[
+  {
+    "chainId": 13371,
+    "name": "ETH",
+    "type": "erc20_currency",
+    "contractAddress": "0x52A6c53869Ce09a731CD772f245b97A4401d3348"
+  },
+  {
+    "chainId": 13371,
+    "name": "USDC",
+    "type": "erc20_currency",
+    "contractAddress": "0x6de8aCC0D406837030CE4dd28e7c08C5a96a30d2"
+  },
+  {
+    "chainId": 13371,
+    "name": "Wrapped IMX (wIMX)",
+    "type": "erc20_currency",
+    "contractAddress": "0x3A0C2Ba54D6CBd3121F01b96dFd20e99D1696C9D"
+  }
+]
