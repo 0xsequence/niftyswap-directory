@@ -1,0 +1,14 @@
+[
+  {
+    "chainId": 8333,
+    "name": "USDC",
+    "type": "erc20_currency",
+    "contractAddress": "0x4FaCAeAB0b044617A94e94a54A8D6644A7f9E41B"
+  },
+  {
+    "chainId": 8333,
+    "name": "WETH",
+    "type": "erc20_currency",
+    "contractAddress": "0x4200000000000000000000000000000000000006"
+  }
+]
