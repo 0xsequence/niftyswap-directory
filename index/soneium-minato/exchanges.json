@@ -3,6 +3,12 @@
     "chainId": 1946,
     "name": "USDC",
     "type": "erc20_currency",
-    "contractAddress": "0xfF0CBFbA43a1Ce2B8d72B2f3121558BcBd4B03a6"
+    "contractAddress": "0xE9A198d38483aD727ABC8b0B1e16B2d338CF0391"
+  },
+  {
+    "chainId": 1946,
+    "name": "wstETH",
+    "type": "erc20_currency",
+    "contractAddress": "0x5717D6A621aA104b0b4cAd32BFe6AD3b659f269E"
   }
 ]
