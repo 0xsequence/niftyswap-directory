@@ -1,0 +1,8 @@
+[
+  {
+    "chainId": 37084624,
+    "name": "TestPlayBits",
+    "type": "erc20_currency",
+    "contractAddress": "0xB07A8a7F534AbCfF942767326e073DC1E8f89536"
+  }
+]

@@ -1,8 +1,8 @@
 [
   {
-    "chainId": 37084624,
-    "name": "TestPlayBits",
+    "chainId": 1482601649,
+    "name": "Europa USDT",
     "type": "erc20_currency",
-    "contractAddress": "0xB07A8a7F534AbCfF942767326e073DC1E8f89536"
+    "contractAddress": "0xCC205196288B7A26f6D43bBD68AaA98dde97276d"
   }
 ]
