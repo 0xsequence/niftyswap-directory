@@ -1,8 +1,32 @@
 [
   {
-    "chainId": 37084624,
-    "name": "TestPlayBits",
+    "chainId": 1482601649,
+    "name": "ETH",
     "type": "erc20_currency",
-    "contractAddress": "0xB07A8a7F534AbCfF942767326e073DC1E8f89536"
+    "contractAddress": "0xaB01BAd2C86e24D371A13eD6367bdCa819589C5D"
+  },
+  {
+    "chainId": 1482601649,
+    "name": "USDC",
+    "type": "erc20_currency",
+    "contractAddress": "0xCC205196288B7A26f6D43bBD68AaA98dde97276d"
+  },
+  {
+    "chainId": 1482601649,
+    "name": "USDT",
+    "type": "erc20_currency",
+    "contractAddress": "0x932427E1f1Ea096e2bb05C7dE937d083ddb8Ff83"
+  },
+  {
+    "chainId": 1482601649,
+    "name": "WBTC",
+    "type": "erc20_currency",
+    "contractAddress": "0x64d2EebA8B02f2aB19e2238f1655A8409dB64817"
+  },
+  {
+    "chainId": 1482601649,
+    "name": "WBTC",
+    "type": "erc20_currency",
+    "contractAddress": "0x7F73B66d4e6e67bCdeaF277b9962addcDabBFC4d"
   }
 ]
