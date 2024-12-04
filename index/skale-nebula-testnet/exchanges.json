@@ -4,5 +4,17 @@
     "name": "USDC",
     "type": "erc20_currency",
     "contractAddress": "0xeF54B53Ef50C1dE54A5D86bbfFFcbAf01B7c01E9"
+  },
+  {
+    "chainId": 37084624,
+    "name": "USDT",
+    "type": "erc20_currency",
+    "contractAddress": "0x1F45a8327328C9e333B3C40D49EA758Fd356879b"
+  },
+  {
+    "chainId": 37084624,
+    "name": "SKALE",
+    "type": "erc20_currency",
+    "contractAddress": "0xa004511FBE3177aaf6cE06e6e3932DA54e1D1FC0"
   }
 ]
