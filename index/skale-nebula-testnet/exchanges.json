@@ -1,8 +1,8 @@
 [
   {
     "chainId": 37084624,
-    "name": "Europa USDT",
+    "name": "USDC",
     "type": "erc20_currency",
-    "contractAddress": "0xCC205196288B7A26f6D43bBD68AaA98dde97276d"
+    "contractAddress": "0xeF54B53Ef50C1dE54A5D86bbfFFcbAf01B7c01E9"
   }
 ]
